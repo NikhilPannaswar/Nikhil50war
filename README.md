@@ -29,6 +29,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilpannaswar&show_icons=true&locale=en&layout=compact" alt="nikhilpannaswar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilpannaswar&" alt="nikhilpannaswar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil50war&" alt="nikhil50war" /></p>
