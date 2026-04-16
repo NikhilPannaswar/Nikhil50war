@@ -8,11 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/nikhilpannaswar" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilpannaswar?logo=twitter&style=for-the-badge" alt="nikhilpannaswar" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://nikhil50war.vercel.app/](https://nikhil50war.vercel.app/)
-
 - 📫 How to reach me **nikhilpannaswar2019@gmail.com**
-
-- 📄 Know about my experiences [https://nikhil50war.vercel.app/](https://nikhil50war.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
